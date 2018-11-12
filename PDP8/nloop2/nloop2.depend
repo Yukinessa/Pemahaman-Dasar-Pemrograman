@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511755908 source:f:\ma learning\nloop2\main.c
+	<stdio.h>
+	<stdlib.h>
+

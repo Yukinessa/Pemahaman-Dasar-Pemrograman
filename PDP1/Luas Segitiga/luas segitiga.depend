@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1506953701 source:/home/yukinessa/codeblock/PDP/luas persegi panjang/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1506959158 source:/home/yukinessa/codeblock/PDP/luas segitiga/main.c
+	<stdio.h>
+	<stdlib.h>
+

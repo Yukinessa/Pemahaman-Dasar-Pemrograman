@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513597021 source:/home/yukinessa/codeblock/PDP/PDP8/PDP 11 I/main.c
+	<stdio.h>
+	<stdlib.h>
+

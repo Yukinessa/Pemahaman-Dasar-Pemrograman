@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1507240437 source:/home/yukinessa/codeblock/PDP/Analisis Tipe Data/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1507240666 source:/home/yukinessa/codeblock/PDP/PDP1/Analisis Tipe Data/main.c
+	<stdio.h>
+	<stdlib.h>
+

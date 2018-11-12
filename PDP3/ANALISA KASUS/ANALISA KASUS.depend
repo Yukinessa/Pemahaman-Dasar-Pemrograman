@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1507568474 source:/home/yukinessa/codeblock/PDP/ANALISA KASUS/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1510583040 source:/home/yukinessa/codeblock/PDP/PDP3/ANALISA KASUS/main.c
+	<stdio.h>
+	<stdlib.h>
+

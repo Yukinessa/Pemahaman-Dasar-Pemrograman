@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508928234 source:/home/yukinessa/codeblock/PDP/PDP5/tugas 1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

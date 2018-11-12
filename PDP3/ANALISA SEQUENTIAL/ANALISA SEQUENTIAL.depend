@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507565132 source:/home/yukinessa/codeblock/PDP/ANALISA SEQUENTIAL/main.c
+	<stdio.h>
+	<stdlib.h>
+

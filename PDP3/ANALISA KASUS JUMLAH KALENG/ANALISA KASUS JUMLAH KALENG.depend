@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507570613 source:/home/yukinessa/codeblock/PDP/ANALISA KASUS JUMLAH KALENG/main.c
+	<stdio.h>
+	<stdlib.h>
+

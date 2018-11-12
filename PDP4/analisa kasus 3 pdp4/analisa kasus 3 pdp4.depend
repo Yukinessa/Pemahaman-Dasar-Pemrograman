@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508346538 source:/home/yukinessa/codeblock/PDP/PDP4/analisa kasus 3 pdp4/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512410777 source:c:\users\yukinessa\downloads\pdp9\squareb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

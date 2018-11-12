@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509525212 source:/home/yukinessa/codeblock/PDP/PDP5/pdp6 soal 3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

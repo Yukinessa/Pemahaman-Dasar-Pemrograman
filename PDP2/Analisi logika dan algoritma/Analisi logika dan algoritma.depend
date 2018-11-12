@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1507128322 source:/home/yukinessa/codeblock/PDP/Analisi logika dan algoritma/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1507128771 source:/home/yukinessa/codeblock/PDP/PDP2/Analisi logika dan algoritma/main.c
+	<stdio.h>
+	<stdlib.h>
+

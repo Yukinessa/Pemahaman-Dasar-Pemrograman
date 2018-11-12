@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516086807 source:/home/yukinessa/codeblock/PDP/PDP9/triangleD/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

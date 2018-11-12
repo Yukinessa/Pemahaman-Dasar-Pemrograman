@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1511776352 source:/home/yukinessa/codeblock/PDP/nloop15/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1511795675 source:/home/yukinessa/codeblock/PDP/PDP8/nloop15/main.c
+	<stdio.h>
+

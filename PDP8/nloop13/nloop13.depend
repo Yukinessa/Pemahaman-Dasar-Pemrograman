@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511775960 source:/home/yukinessa/codeblock/PDP/nloop13/main.c
+	<stdio.h>
+	<stdlib.h>
+

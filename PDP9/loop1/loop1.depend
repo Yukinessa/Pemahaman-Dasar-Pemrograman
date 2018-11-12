@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512408685 source:c:\users\yukinessa\downloads\pdp9\loop1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
